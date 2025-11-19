@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "Images": [".png", ".jpg", ".jpeg"],
+    "Documents": [".pdf", ".docx", ".txt"],
+    "Media": [".mp4", ".mp3", ".mkv"],
+    "Archives": [".zip", ".rar"],
+    "Code": [".py", ".html", ".js", ".css"]
+  }
+}
